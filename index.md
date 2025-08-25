@@ -10,4 +10,4 @@ youtubeId: 8NKw--UU8K8
 
 ![an image of a futuristic city created for Task One](/images/futurecity.jpg) 
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtube.html id=page.youtubeId %}
